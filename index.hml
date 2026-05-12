@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Six-Seven Official</title>
+    <style>
+        body { background: #000; color: #fff; font-family: 'Arial', sans-serif; text-align: center; }
+        .logo { font-size: 80px; font-weight: bold; margin-top: 20%; color: #ff0000; }
+        .subtitle { letter-spacing: 5px; text-transform: uppercase; }
+    </style>
+</head>
+<body>
+    <div class="logo">67</div>
+    <div class="subtitle">Six Seven Project</div>
+</body>
+</html>
